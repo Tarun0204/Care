@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.excellence-heading {
+    margin-left: 50px;
+}
+
+.arrows {
+    color: greenyellow;
+}
+
+.card-links {
+    color: rgb(146, 243, 11);
+}
+
+.location-para {
+    font-size: 21px;
+}
+
+.location-links {
+    font-size: 30px;
+    height: 10vh;
+    padding-top: 12px;
+}
+
+.location-links li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.location-links li:hover {
+    background-color: aqua;
+    color: white;
+}
+
+.contact-heading {
+    color: #183b56;
+    font-size: 30px;
+}
+
+.footer-section {
+    background-color: gainsboro;
+    padding-top: 30px;
+}
+
+.footer-img {
+    margin-left: 70px;
+    padding: 20px;
+}
+
+.icons {
+    color: #5a7184;
+    background-color: #152c3e;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 9px;
+}
+
+.address {
+    color: #5a7184;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.footer-links-anchor {
+    color: #5a7184;
+}
+
+.footer-links-para {
+    font-size: 20px;
+    list-style-type: none;
+    text-align: left;
+}
+
+.footer-links-heading {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.line {
+    border-style: solid;
+    border-color: #5a7184;
+    border-width: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer-description {
+    color: #5a7184;
+    padding-bottom: 30px;
+}
+
+/* Doctors-Page */
+.bg-container {
+    background-image: url("https://www.carehospitals.com/assets/images/banners/doctorlist-banner.webp");
+    background-size: cover;
+    height: 30vh;
+}
+
+.doctor-heading {
+    padding-top: 100px;
+    font-weight: bold;
+}
+
+.doctor-img {
+    margin-top: 10%;
+}
+
+.doctor-card-container {
+    height: 55vh;
+}
+
+.special-bg-container {
+    background-image: url("https://www.carehospitals.com/assets/images/banners/specality-treatment-banner.jpg");
+    background-size: cover;
+    height: 30vh;
+}
+
+.excellence-container li {
+    list-style-type: none;
+}
+
+.excellence-container li a {
+    color: black;
+    font-size: 22px;
+}
+
+.excellence-container li a:hover {
+    text-decoration: none;
+}
+
+.bg-container1 {
+    background-image: url("https://ecare.carehospitals.com:8000/assets/images/V-Banner.png");
+    background-size: cover;
+    height: 30vh;
+}
